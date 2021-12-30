@@ -20,3 +20,4 @@
 
 ## Reference 
 * https://www.marcobehler.com/guides/a-guide-to-logging-in-java
+* https://stackify.com/slf4j-java/
